@@ -1,0 +1,5 @@
+ru/vienoulis/investor/connection/Connection.class
+ru/vienoulis/investor/config/AppConf.class
+ru/vienoulis/investor/InvestorApplication.class
+ru/vienoulis/investor/connection/ConnectionInpl.class
+ru/vienoulis/investor/controller/HelloPageController.class
